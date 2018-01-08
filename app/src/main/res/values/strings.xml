@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="write_name">Введи имя</string>
+    <string name="make_photo">Сделать фото</string>
+</resources>
