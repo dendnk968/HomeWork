@@ -1,3 +1,4 @@
-window.onload = function () { 
-alert();
-    }
+
+document.addEventListener('DOMContentLoaded', function () {
+  alert();
+});
